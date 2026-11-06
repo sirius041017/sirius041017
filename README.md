@@ -15,8 +15,14 @@
 
 ## 📊 Featured Projects
 
-### 1. Global Deforestation Dashboard
-Interactive Tableau dashboard analyzing global deforestation patterns and drivers.
+### 🌍 Global Deforestation Dashboard
+
+An interactive Tableau dashboard analyzing global deforestation patterns and major drivers.
+
+**Tools:** Tableau, Data Visualization, Data Analysis
+
+[View Project](https://github.com/sirius041017/Global-Deforestation-Dashboard)
+
 
 ### 2. Machine Learning Projects
 Data preprocessing, feature engineering,model training and evaluation.
