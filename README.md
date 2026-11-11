@@ -19,27 +19,31 @@
 
 An interactive Tableau dashboard analyzing global deforestation patterns and major drivers.
 
-**Tools:** Tableau, Data Visualization, Data Analysis
+**Tools:** Tableau Desktop · CSV · Tableau Mapping · Interactive Filters · Calculated Fields
+
+**Skills:** Data Visualization · Geospatial Analysis · Exploratory Data Analysis · Dashboard Design · Data Storytelling · Comparative Analysis
 
 [View Project](https://github.com/sirius041017/Global-Deforestation-Dashboard)
 
 
-### 2. 🧠 MIT AI News Sentiment Analysis (NLP)
+### 2. MIT AI News Sentiment Analysis (NLP)
 
 Conducted sentiment analysis on MIT AI-related news articles using Python and Natural Language Processing techniques.
 
-**Tools:** Python, Pandas, NLTK, Scikit-learn, Matplotlib, WordCloud, Jupyter Notebook
+**Tools:** Python · Pandas · NLTK VADER · Scikit-learn (CountVectorizer) · Matplotlib · WordCloud · Jupyter Notebook
 
-**Skills:** Natural Language Processing · Sentiment Analysis · Text Mining · Data Visualization
+**Skills:** Natural Language Processing · Sentiment Analysis · Text Mining · Text Preprocessing · Exploratory Data Analysis · Temporal Trend Analysis · Data Visualization
 
 [View Project](https://github.com/sirius041017/MIT-AI-News-Sentiment-Analysis)
 
-### 3. Healthcare Data Analysis
+### 3. Healthcare Analytics Dashboard
 Exploratory analysis and visualization of healthcare-related indicators.
 
-**Tools:** Jupyter Notebook, HTML , streamlit
+**Tools:**  Python · Streamlit · Pandas · NumPy · Plotly · Matplotlib · Jupyter Notebook
 
-[View Project](https://github.com/sirius041017/Healthcare-EDA-Analysis)
+**Skills:** Exploratory Data Analysis · Data Cleaning · Interactive Dashboard Development · Data Visualization · Statistical Analysis · Data Integration · Data Storytelling · Data Product Development
+
+[View Project](https://github.com/sirius041017/Healthcare-Analytics-Dashboard)
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/dianfeng-zhou-71a644402
