@@ -45,6 +45,17 @@ Exploratory analysis and visualization of healthcare-related indicators.
 
 [View Project](https://github.com/sirius041017/Healthcare-Analytics-Dashboard)
 
+
+### 4.📰 Online News Popularity Prediction
+
+Developed a machine learning project to predict whether an online news article is popular.
+
+**Tools:** Python · Pandas · NumPy · Matplotlib · Jupyter Notebook · R · rpart · randomForest · ggplot2 · data.table
+
+**Skills:** Data Cleaning · Exploratory Data Analysis · Binary Classification · Feature Engineering · Temporal Validation · Hyperparameter Tuning · Model Evaluation · Statistical Interpretation
+
+[View Project](https://github.com/sirius041017/Online-News-Popularity-Prediction)
+
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/dianfeng-zhou-71a644402
 - Email: dzhou009@e.ntu.edu.sg
