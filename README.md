@@ -29,7 +29,7 @@ Data preprocessing, feature engineering,model training and evaluation.
 
 ### 3. Healthcare Data Analysis
 Exploratory analysis and visualization of healthcare-related indicators.
-
+[View Project](https://github.com/sirius041017/Healthcare-EDA)
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/dianfeng-zhou-71a644402
 - Email: dzhou009@e.ntu.edu.sg
