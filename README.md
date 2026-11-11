@@ -15,7 +15,7 @@
 
 ## 📊 Featured Projects
 
-### 🌍 Global Deforestation Dashboard
+### 1.🌍 Global Deforestation Dashboard
 
 An interactive Tableau dashboard analyzing global deforestation patterns and major drivers.
 
@@ -26,7 +26,7 @@ An interactive Tableau dashboard analyzing global deforestation patterns and maj
 [View Project](https://github.com/sirius041017/Global-Deforestation-Dashboard)
 
 
-### 2. MIT AI News Sentiment Analysis (NLP)
+### 2.🧠 MIT AI News Sentiment Analysis (NLP)
 
 Conducted sentiment analysis on MIT AI-related news articles using Python and Natural Language Processing techniques.
 
@@ -36,7 +36,7 @@ Conducted sentiment analysis on MIT AI-related news articles using Python and Na
 
 [View Project](https://github.com/sirius041017/MIT-AI-News-Sentiment-Analysis)
 
-### 3. Healthcare Analytics Dashboard
+### 3. 🏥 Healthcare Analytics Dashboard
 Exploratory analysis and visualization of healthcare-related indicators.
 
 **Tools:**  Python · Streamlit · Pandas · NumPy · Plotly · Matplotlib · Jupyter Notebook
