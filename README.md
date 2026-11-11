@@ -26,13 +26,7 @@ An interactive Tableau dashboard analyzing global deforestation patterns and maj
 
 ### 2. 🧠 MIT AI News Sentiment Analysis (NLP)
 
-Conducted sentiment analysis on **314 MIT AI-related news articles (2023–2025)** using Python and Natural Language Processing techniques.
-
-- **Sentiment Analysis:** Applied NLTK VADER to classify articles into positive, neutral, and negative categories.
-- **Trend Analysis:** Examined yearly and monthly sentiment patterns.
-- **Text Mining:** Used CountVectorizer to identify frequently occurring AI-related keywords and bigrams.
-- **Data Visualization:** Created sentiment distribution charts, temporal trend plots, and word clouds.
-- **Key Finding:** 75.5% of the analyzed articles were classified as positive based on the Notebook's saved results.
+Conducted sentiment analysis on MIT AI-related news articles using Python and Natural Language Processing techniques.
 
 **Tools:** Python, Pandas, NLTK, Scikit-learn, Matplotlib, WordCloud, Jupyter Notebook
 
