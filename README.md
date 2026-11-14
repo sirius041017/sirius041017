@@ -1,62 +1,70 @@
+<h1 align="center">Hi 👋, I'm Dianfeng</h1>
+<h3 align="center">A Business Analytics Student Passionate about Data Science, Machine Learning & AI</h3>
 
-# Hi, I'm Zhou Dianfeng 👋
+## 🛠️ Tech stack
 
-🎓 Business Analytics Student
+**Programming Languages**
 
-💡 Interested in Data Analytics, AI, Machine Learning and Product Management.
+<img src="https://skillicons.dev/icons?i=python,r" height="45" />
 
-## 🛠 Technical Skills
+**Databases**
 
-- Programming: Python, R, SQL
-- Data Analysis: Pandas, NumPy, Scikit-learn
-- Visualization: Tableau, Matplotlib, Plotly
-- Database: MongoDB
-- Tools: Jupyter Notebook, Git
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="45" />
 
-## 📊 Featured Projects
+**Data Analytics & Statistical Tools**
 
-### 1.🌍 Global Deforestation Dashboard
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/SPSS-176FC1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Weka-F0A500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logoColor=black" />
 
-An interactive Tableau dashboard analyzing global deforestation patterns and major drivers.
+**Machine Learning & Python Libraries**
 
-**Tools:** Tableau Desktop · CSV · Tableau Mapping · Interactive Filters · Calculated Fields
+<img src="https://skillicons.dev/icons?i=sklearn" height="45" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-**Skills:** Data Visualization · Geospatial Analysis · Exploratory Data Analysis · Dashboard Design · Data Storytelling · Comparative Analysis
+**Fronted**
 
-[View Project](https://github.com/sirius041017/Global-Deforestation-Dashboard)
+<img src="https://skillicons.dev/icons?i=html,css" height="45" />
 
+**Development Environment**
 
-### 2.🧠 MIT AI News Sentiment Analysis (NLP)
+<img src="https://skillicons.dev/icons?i=github,git,vscode,anaconda" height="45" />
 
-Conducted sentiment analysis on MIT AI-related news articles using Python and Natural Language Processing techniques.
+**AI Tools & Skills**
 
-**Tools:** Python · Pandas · NLTK VADER · Scikit-learn (CountVectorizer) · Matplotlib · WordCloud · Jupyter Notebook
-
-**Skills:** Natural Language Processing · Sentiment Analysis · Text Mining · Text Preprocessing · Exploratory Data Analysis · Temporal Trend Analysis · Data Visualization
-
-[View Project](https://github.com/sirius041017/MIT-AI-News-Sentiment-Analysis)
-
-### 3. 🏥 Healthcare Analytics Dashboard
-Exploratory analysis and visualization of healthcare-related indicators.
-
-**Tools:**  Python · Streamlit · Pandas · NumPy · Plotly · Matplotlib · Jupyter Notebook
-
-**Skills:** Exploratory Data Analysis · Data Cleaning · Interactive Dashboard Development · Data Visualization · Statistical Analysis · Data Integration · Data Storytelling · Data Product Development
-
-[View Project](https://github.com/sirius041017/Healthcare-Analytics-Dashboard)
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-7957D5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI--Assisted_Analytics-2563EB?style=for-the-badge" />
 
 
-### 4.📰 Online News Popularity Prediction
+## 📅 Hobbies
+- Debating
+- Listening to music
+- Playing the piano
+- Reading fantasy and detective novels
+- etc...
 
-Developed a machine learning project to predict whether an online news article is popular.
+## 💻 Current projects
+- viajin [WIP] - Side project
+- Automating my personal finances [WIP] - Side project
+  - cashu
+  - cashu - File malware detection
+  - Transactions sync listener
+  - Telegram bot with OCR for bill tracking
 
-**Tools:** Python · Pandas · NumPy · Matplotlib · Jupyter Notebook · R · rpart · randomForest · ggplot2 · data.table
 
-**Skills:** Data Cleaning · Exploratory Data Analysis · Binary Classification · Feature Engineering · Temporal Validation · Hyperparameter Tuning · Model Evaluation · Statistical Interpretation
+## 🎵 NetEase Cloud Music
 
-[View Project](https://github.com/sirius041017/Online-News-Popularity-Prediction)
-
-## 📫 Contact
-- LinkedIn: www.linkedin.com/in/dianfeng-zhou-71a644402
-- Email: dzhou009@e.ntu.edu.sg
-
+<a href="https://music.163.com/#/user/home?id=350719520">
+  <img
+    src="https://netease-recent-profile.vercel.app/?id=350719520&amp;theme=card&amp;mode=dark&amp;themeColor=e60026&amp;size=300"
+    width="460"
+    alt="NetEase Cloud Music - Recently Played"
+  />
+</a>
