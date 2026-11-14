@@ -59,13 +59,20 @@
 - Reading fantasy and detective novels
 - etc...
 
-## 💻 Current projects
-- viajin [WIP] - Side project
-- Automating my personal finances [WIP] - Side project
-  - cashu
-  - cashu - File malware detection
-  - Transactions sync listener
-  - Telegram bot with OCR for bill tracking
+## 💻 Featured Projects
+
+- 🌳 **[Global Deforestation Dashboard](https://github.com/sirius041017/Global-Deforestation-Dashboard)**
+  - Interactive Tableau dashboard analyzing global deforestation drivers and geographical patterns.
+
+- 🏥 **[Healthcare Analytics Dashboard](https://github.com/sirius041017/Healthcare-Analytics-Dashboard)**
+  - Exploratory Data Analysis (EDA) and healthcare data visualization using Python.
+
+- 🤖 **[MIT AI News Sentiment Analysis](https://github.com/sirius041017/MIT-AI-News-Sentiment-Analysis)**
+  - Analyzing sentiment in AI-related news to explore public discussions and trends.
+
+- 📈 **[Online News Popularity Prediction](https://github.com/sirius041017/Online-News-Popularity-Prediction)**
+  - Predicting online news popularity using Logistic Regression, CART, and Random Forest models in R.
+
 
 
 ## 🎵 NetEase Cloud Music
