@@ -11,20 +11,28 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="45" />
 
+
 **Data Analytics & Statistical Tools**
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/SPSS-176FC1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Weka-F0A500?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logoColor=black" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/SPSS-176FC1?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Weka-F0A500?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logoColor=black" height="30" />
+</p>
 
 **Machine Learning & Python Libraries**
 
-<img src="https://skillicons.dev/icons?i=sklearn" height="45" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30" />
+</p>
+
 
 **Fronted**
 
@@ -36,12 +44,13 @@
 
 **AI Tools & Skills**
 
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-7957D5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI--Assisted_Analytics-2563EB?style=for-the-badge" />
-
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=claude&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7957D5?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/AI--Assisted_Analytics-2563EB?style=for-the-badge" height="30" />
+</p>
 
 ## 📅 Hobbies
 - Debating
