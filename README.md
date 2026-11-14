@@ -74,13 +74,14 @@
   - Predicting online news popularity using Logistic Regression, CART, and Random Forest models in R.
 
 
-
 ## 🎵 NetEase Cloud Music
 
-<a href="https://music.163.com/#/user/home?id=350719520">
-  <img
-    src="https://netease-recent-profile.vercel.app/?id=350719520&amp;theme=card&amp;mode=dark&amp;themeColor=e60026&amp;size=300"
-    width="460"
-    alt="NetEase Cloud Music - Recently Played"
-  />
-</a>
+<p align="left">
+  <a href="https://music.163.com/#/user/home?id=350719520">
+    <img
+      src="https://netease-recent-profile.vercel.app/?id=350719520&amp;theme=list&amp;mode=dark&amp;number=4&amp;column=2&amp;width=260&amp;size=60"
+      width="560"
+      alt="NetEase Cloud Music"
+    />
+  </a>
+</p>
