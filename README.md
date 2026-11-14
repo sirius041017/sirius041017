@@ -1,5 +1,29 @@
-<h1 align="center">Hi 👋, I'm Dianfeng</h1>
-<h3 align="center">A Business Analytics Student Passionate about Data Science, Machine Learning & AI</h3>
+
+<div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;width=600&amp;lines=console.log(%22Hello%2C+World!%22);Hi!+I'm+Dianfeng+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!&amp;center=true&amp;size=25&amp;color=36BCF7"
+      alt="Typing SVG" />
+  </a>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"
+      width="440"
+      alt="Coding Animation"
+    />
+  </picture>
+
+</div>
+
 
 ## 🛠️ Tech stack
 
